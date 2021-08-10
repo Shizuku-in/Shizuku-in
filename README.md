@@ -1,0 +1,2 @@
+- URL: https://omochikaeri.wordpress.com/
+- Like Erogames
