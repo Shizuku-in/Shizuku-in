@@ -1,126 +1,41 @@
-# Notification
-Used for backup
-# ALL SKINS OF SHIGETORA / Cookiezi
+## Languages, IDEs and Tools
 
-skins are in order from new to old (click the name/number to download)
+### Languages
 
-other(?) cursor for kirby: [here](https://shigeskin.s-ul.eu/Nnhfa3Rc) 
+<img style="padding: 1.5px" align="left" alt="Rust" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//rust.svg"/>
+<img style="padding: 1.5px" align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//csharp.svg"/>
+<img style="padding: 1.5px" align="left" alt="C++" width="25px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//cpp.svg"/>
+<img style="padding: 1.5px" align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//c.svg"/>
+<img style="padding: 1.5px" align="left" alt="Go" width="20px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//go.svg"/>
+<img style="padding: 1.5px" align="left" alt="Java" width="16px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//java.svg"/>
+<img style="padding: 1.5px" align="left" alt="Python 3" width="26px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//py.svg"/>
+<img style="padding: 1.5px" align="left" alt="PHP" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//php.svg"/>
+<img style="padding: 1.5px" align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//html5.svg"/>
+<img style="padding: 1.5px" align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//typescript.svg"/>
+<img style="padding: 1.5px" align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//javascript.svg"/>
+<img style="padding: 1.5px" alt="Sass" width="31px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//sass.svg"/>
 
-# [-+ Seoul v9 Pineapple Color Updated](https://shigeskln.s-ul.eu/aZMjYmod)
-![](https://i.imgur.com/WpLyPMn.png)
-# [-+ Seoul v9 Personal Skin Kirby](https://shigeskinss.s-ul.eu/gEfiNoTv)
-![](https://i.imgur.com/CD6mvWT.png)
-# [ Nomod Skin v3](https://drive.google.com/u/0/uc?export=download&confirm=vFXA&id=1yiVky4ATkDQOG-zONI5rb_091RuES2_E)
-![](https://i.imgur.com/RT1uaQ2.png)
-# [Nomod Skin v2](https://shigeskinss.s-ul.eu/vCVa6Zgh)
-![](https://i.imgur.com/NEINUX0.png)
-# [-+ Seoul v9 Personal Skin New Hitcircle](https://shigeskinss.s-ul.eu/r3gxsaDo)
-![](https://i.imgur.com/wblSU48.png)
-# [-+ Seoul v9 Personal Skin Smooth Trail](https://shigeskinss.s-ul.eu/1sGsurzS)
-![](https://i.imgur.com/xeCYJhQ.png)
-# [-+ Seoul v9 Personal Skin Old trail](https://shigeskinss.s-ul.eu/97eu8DIN)
-![](https://i.imgur.com/hKeFcXv.png)
-# [-+ Seoul v9 Personal Skin](https://shigeskinss.s-ul.eu/csrv6H29)
-![](https://i.imgur.com/RBEwdpq.png)
-# [Nomod Skin v1](https://shigeskinss.s-ul.eu/eHyLi7MS)
-![](https://shigeskinss.s-ul.eu/XkSQQL1r)
-# [-+ Seoul v9 Personal Skin (red trail)](https://shigeskinss.s-ul.eu/mIorpQ7p)
-![](https://osu.ppy.sh/ss/12214805)
-# [-+ Seoul v9 Personal Skin (blue trail)](http://bit.ly/2P5cqEf)
-![](https://osu.ppy.sh/ss/12214828)
-# [-+ Seoul v9 Personal Skin (original cursor/trail) COPY LINK ADDRESS FOR NOW PLS](http://bit.ly/2P4P6qm)
-![](https://shigeskinss.s-ul.eu/bd5OfFLa)
-# [34](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2034%202018-09-09.osk)
-![](https://osu.ppy.sh/ss/12217189)
-# [33](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2033%202018-09-02.osk)
-![](https://osu.ppy.sh/ss/12217212)
-# [32](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2032%202018-08-01.osk)
-![](https://shigeskinss.s-ul.eu/PN7J4qYy)
-# [31](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2031%202018-07-12.osk)
-![](https://osu.ppy.sh/ss/12217250)
-# [30](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2030%202018-06-11.osk)
-![](https://shigeskinss.s-ul.eu/bhZctcbD)
-# [29](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2029%202018-03-18.osk)
-![](https://osu.ppy.sh/ss/12217289)
-# [28](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2028%202018-02-04.osk)
-![](https://shigeskinss.s-ul.eu/v3ZEQt6s)
-# [27](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2027%202017-12-01.osk)
-![](https://shigeskinss.s-ul.eu/fbzHxPNk)
-# [26](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2026%202017-11-21%20pinkcursor.osk)
-![](https://shigeskinss.s-ul.eu/vo4irF0e)
-# [25](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2025%202017-10-16%20oldcircles%20.osk)
-![](https://shigeskinss.s-ul.eu/zjWo2ZG5)
-# [24](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2024%202017-08-17%20greencurs.osk)
-![](https://shigeskinss.s-ul.eu/9lNrU7d2)
-# [23](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2023%202017-08-31%20DT.osk)
-![](https://shigeskinss.s-ul.eu/gB2opcAM)
-# [Vento Skin Remake (By Nymphia)](https://drive.google.com/file/d/10Sm5mxIPr55N8jiSWDBdn9MRC_4wFeSD/view?usp=sharing)
-![](https://shigeskinss.s-ul.eu/97kJCfnk)
-# [22.1](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2022.x%202017-08-10.osk)
-![](https://shigeskinss.s-ul.eu/KOuXo4CI)
-# [22](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2022%202017-04-05.osk)
-![](https://shigeskinss.s-ul.eu/yGKCOD0X)
-# [- Seoul+ (Remote Control)](https://drive.google.com/file/d/1ztbfM4QVjP3fS3ojar6Smgm1u7tGv0Kj/view?usp=sharing)
-![](https://cdn.discordapp.com/attachments/781860579936698378/781876903510409236/screenshot032.png)
-# [21.7](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2021.7%202017-03-23.osk)
-![](https://shigeskinss.s-ul.eu/WR4q8wzP)
-# [21.6](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2021.6%202017-03-18.osk)
-![](https://shigeskinss.s-ul.eu/UsEz74bK)
-# [21.5](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2021.5%202017-03-12.osk)
-![](https://shigeskinss.s-ul.eu/6cthCB40)
-# [21.4](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2021.4%202017-02-24.osk)
-![](https://shigeskinss.s-ul.eu/nIUthg2e)
-# [21.3](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2021.3%202017-02-20.osk)
-![](https://shigeskinss.s-ul.eu/GCb4LstV)
-# [21.2](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2021.2%202017-02-19.osk)
-![](https://shigeskinss.s-ul.eu/rzRfDIeL)
-# [21.1](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2021.1%202017-02-03.osk)
-![](https://shigeskinss.s-ul.eu/Q22WT8SL)
-# [21](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2021%202017-01-31.osk)
-![](https://shigeskinss.s-ul.eu/73ouUXgk)
-# [20](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2020%202017-01-28.osk)
-![](https://shigeskinss.s-ul.eu/THeVb7sk)
-# [19](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2019%202016-11-19.osk)
-![](https://shigeskinss.s-ul.eu/SYwqF0m3)
-# [18](https://shigeskln.s-ul.eu/2hEOIrVd)
-![](https://i.imgur.com/YYu703z.png)
-# [17](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2017%202016-02-27.osk)
-![](https://shigeskinss.s-ul.eu/QCnNRWem)
-# [16.5](https://drive.google.com/file/d/1eFpzaLnmaSjZUZyPJzq1HITvyZWjg-IU/view?usp=drivesdk)
-![](https://i.imgur.com/WqPckjH.png)
-# [16](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2016%202016-01-09.osk)
-![](https://shigeskinss.s-ul.eu/y5qd1Inz)
-# [15.1 (Cold Green Eyes)](https://drive.google.com/file/d/1KyEPn3Qd_6rr9pMezCOmR4zxspVWmQ4M/view)
-![](https://i.imgur.com/u5Wa8gw.jpeg)
-# [15](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2015%202015-12-27.osk)
-![](https://shigeskinss.s-ul.eu/h09cQdu0)
-# [14](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2014%202015-12-21.osk)
-![](https://shigeskinss.s-ul.eu/7Bzk8Bmu)
-# [13](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2013%202015-11-28.osk)
-![](https://shigeskinss.s-ul.eu/AO6dnPri)
-# [12](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2012%202015-10-12.osk)
-![](https://shigeskinss.s-ul.eu/0Y8UJBy1)
-# [11](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2011%202015-09-22.osk)
-![](https://shigeskinss.s-ul.eu/hP8v56lc)
-# [10](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2010.osk)
-![](https://shigeskinss.s-ul.eu/yHiC7tmf)
-# [09](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2009%202015-09-12.osk)
-![](https://shigeskinss.s-ul.eu/RiuS9PFY)
-# [08](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2008.osk)
-![](https://shigeskinss.s-ul.eu/DLd65SRA)
-# [07](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2007%202015-07-10.osk)
-![](https://shigeskinss.s-ul.eu/PaRqAq1V)
-# [06](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2006%202015-06-25%20hamachi.osk)
-![](https://shigeskinss.s-ul.eu/sv1thmJa)
-# [05](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2005.osk)
-![](https://shigeskinss.s-ul.eu/26ccnjNr)
-# [04](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2004.osk)
-![](https://shigeskinss.s-ul.eu/j4xIoxRT)
-# [03 Better ver.](https://shigeskin.s-ul.eu/mgqpvKDm)
-![](https://i.imgur.com/8chsimX.png)
-# [03](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2003%20xxxx-2013%20Kamui.osk)
-![](https://shigeskinss.s-ul.eu/ul3drdH8)
-# [02](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2002%20(Old).osk)
-![](https://shigeskinss.s-ul.eu/JOmOIz3z)
-# [01](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2001%202009-2010.osk)
-![](https://shigeskinss.s-ul.eu/cI80nfIw)
+
+### IDEs
+
+<img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg"/>
+<img align="left" alt="Visual Studio 2019" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//vs2019.svg"/>
+<img align="left" alt="Jetbrains Rider" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//rider.png"/>
+<img alt="Intellij Idea" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//intellij-idea.svg"/>
+
+### Tools (not all included)
+
+<img align="left" alt="MariaDB" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//mariadb.png"/>
+<img align="left" alt="Redis" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//redis.svg"/>
+<img align="left" alt="Docker" width="38px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//docker.png"/>
+<img align="left" alt="NGiNX" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//nginx.svg"/>
+<img align="left" alt="Datadog" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//datadog.png"/>
+<img align="left" alt="Digital Ocean" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//digitalocean.svg"/>
+<img align="left" alt="Discord" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//discord.svg"/>
+<img align="left" alt="CMake" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//cmake.svg"/>
+<img align="left" alt="Meson" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//meson.svg"/>
+<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//git.svg"/>
+<img align="left" alt="Powershell" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//powershell.svg"/>
+<img align="left" alt="Gitkraken" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//gitkraken.svg"/>
+<img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//react.svg"/>
+<img alt="Teamspeak 3" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//ts3.png"/>
