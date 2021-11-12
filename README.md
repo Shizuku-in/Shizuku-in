@@ -43,5 +43,5 @@
 
 ## My coding activity
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tsunyoku&show_icons=true&theme=dracula) <br/>
-![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsunyoku&theme=dracula&exclude_repo=aether)
+![My GitHub stats]<br/>
+![My top languages]
