@@ -39,3 +39,9 @@
 <img align="left" alt="Gitkraken" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//gitkraken.svg"/>
 <img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//react.svg"/>
 <img alt="Teamspeak 3" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//ts3.png"/>
+
+
+## My coding activity
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tsunyoku&show_icons=true&theme=dracula) <br/>
+![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsunyoku&theme=dracula&exclude_repo=aether)
