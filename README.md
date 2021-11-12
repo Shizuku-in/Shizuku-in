@@ -39,9 +39,3 @@
 <img align="left" alt="Gitkraken" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//gitkraken.svg"/>
 <img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//react.svg"/>
 <img alt="Teamspeak 3" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//ts3.png"/>
-
-
-## My coding activity
-
-![My GitHub stats]<br/>
-![My top languages]
