@@ -1,2 +1,3 @@
-| <a href="https://kouen.live"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shizuku-in&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="真紅のgithub stats" /></a> | <a href="https://kouen.live"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shizuku-in&layout=compact&theme=graywhite&hide_border=true" /></a> |
-| ------------- | ------------- |
+<div align="center">
+  <img src="https://count.getloli.com/get/@:Duskydream" alt="Duskydream Visitors" />
+</div>
